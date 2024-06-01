@@ -1,14 +1,15 @@
 ---
 layout: post
-title: post-sample
-date: 2020-01-02 19:20:23 +0900
+title: new
+date: 2024-06-02 19:20:23 +0900
 category: 바보바보
+permalink: /categories/바보바보/
 ---
 # post-sample
 > Hello!
 
 my name is horing222222
-
+22222222
 This is code
 ```ruby
 print 'hello world'
